@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpecialSync.iml" filepath="$PROJECT_DIR$/SpecialSync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpecialSync.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpecialSync.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpecialSync.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpecialSync.test.iml" />
+    </modules>
+  </component>
+</project>
