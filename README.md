@@ -9,3 +9,4 @@ The objective of this project is to provide comprehensive copy capabilities and 
 2. Runtime metrics
 3. GUI w/ file pickers
 4. Support other copy programs/features such as cp, scp, ftp.
+toaster
