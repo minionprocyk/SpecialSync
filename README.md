@@ -11,3 +11,4 @@ The objective of this project is to provide comprehensive copy capabilities and 
 4. Support other copy programs/features such as cp, scp, ftp.
 toaster
 biteme
+failme
